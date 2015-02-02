@@ -1,6 +1,6 @@
 # encryption
-# author : ikad
-# year : 2015
+author : ikad
+year : 2015
 cpp based text encryption
 
 Encryption :
